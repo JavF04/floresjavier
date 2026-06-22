@@ -20,16 +20,21 @@ This repository serves as a curated collection of analytical projects, software 
 The repository is strategically organized to ensure seamless navigation across my technical and academic background:
 
 ├── aplicaciones/
+
 │   ├── development/         # Base code, lecture scripts, and draft files.
+
 │   ├── ptar_datos/          # Data analysis and database-oriented projects (Admin/DB).
+
 │   └── YaFunciona\ Proyecto/ # Production-ready functional scripts (Numerical Methods & Algorithmic Solvers).
+
 ├── documentos/              # Professional certifications, academic achievements, and language credentials.
+
 └── README.md                # Portfolio index and main presentation page.
 
 ## ✉️ Contact
 
 I am actively looking for opportunities to collaborate on software development, statistical analysis, process optimization, or data science roles. Feel free to reach out!
-- LinkedIn: https://linkedin.com/in/Your-Username-Here
-- Email: your.email@example.com
-- GitHub Profile: https://github.com/Your-Username-Here
+- LinkedIn: www.linkedin.com/in/javier-alberto-flores-gómez-6a3143406
+- Email: javierfloresgomeziup2000@gmail.com
+- GitHub Profile: https://github.com/JavF04
 - Location: State of Mexico, Mexico.
