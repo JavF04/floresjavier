@@ -21,15 +21,15 @@ The repository is strategically organized to ensure seamless navigation across m
 
 ├── aplicaciones/
 
-│   ├── development/         # Base code, lecture scripts, and draft files.
+│   ├── development_restaurante/            # Base code, lecture scripts, and draft files.
 
-│   ├── ptar_datos/          # Data analysis and database-oriented projects (Admin/DB).
+│   ├── ptar_datos/                         # Data analysis and database-oriented projects (Admin/DB).
 
-│   └── YaFunciona\ Proyecto/ # Production-ready functional scripts (Numerical Methods & Algorithmic Solvers).
+│   └── Metodos_numericos/                  # Production-ready functional scripts (Numerical Methods & Algorithmic Solvers).
 
-├── documentos/              # Professional certifications, academic achievements, and language credentials.
+├── documentos/                             # Professional certifications, and academic achievements.
 
-└── README.md                # Portfolio index and main presentation page.
+└── README.md                               # Portfolio index and main presentation page.
 
 ## ✉️ Contact
 
